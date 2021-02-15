@@ -1,0 +1,4 @@
+# download and install the latest source code from GitHub
+git clone https://github.com/XanaduAI/strawberryfields.git
+cd strawberryfields
+pip install -e .
